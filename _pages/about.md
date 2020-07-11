@@ -1,13 +1,14 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+**கலை** or **Art** is the simpler dialect of the language of the universe [^1]. It enables us to break past the shackles of physical constraints and explore the realms of our imaginations.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+This blog is a documentation of my journey into Art: Graphic Design, Music, Generative Art and the like.
+![]({{ site.baseurl }}/images/logo.png "கலை's logo")
 
+My contact details are provided [here]({{ site.baseurl }}/contact), in cases you want to get in touch.
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[^1]: The language of the universe is *Mathematics*, I believe.
