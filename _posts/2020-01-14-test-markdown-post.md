@@ -12,6 +12,9 @@ comments: true
 
 Jekyll requires blog post files to be named according to the following format:
 
+$$ {\sin{\theta}}^{2} + {\cos{\theta}}^{2} = 1 $$
+
+
 `YEAR-MONTH-DAY-filename.md`
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `filename` is whatever file name you choose, to remind yourself what this post is about. `.md` is the file extension for markdown files.
