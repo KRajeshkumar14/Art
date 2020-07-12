@@ -49,16 +49,20 @@ And a numbered list:
 
 {% include info.html text="You can include info boxes" %}
 
+{% include note.html content="You can include note boxes" %}
+
+{% include warning.html content="You can include warning boxes" %}
+
+{% include tip.html content="You can include tip boxes" %}
+
+{% include important.html content="You can include important boxes" %}
+
 ## Images
 
 ![]({{ site.baseurl }}/images/logo.png "கலை's Icon")
 
 ## Code
 
-> Warning:
-> Important:
-> Tip:
-> Note:
 
 You can format text and code per usual 
 
