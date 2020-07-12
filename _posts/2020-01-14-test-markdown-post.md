@@ -55,6 +55,11 @@ And a numbered list:
 
 ## Code
 
+> Warning:
+> Important:
+> Tip:
+> Note:
+
 You can format text and code per usual 
 
 General preformatted text:
